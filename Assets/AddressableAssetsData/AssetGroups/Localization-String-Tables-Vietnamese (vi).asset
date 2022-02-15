@@ -10,24 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Localization-Assets-Shared
+  m_Name: Localization-String-Tables-Vietnamese (vi)
   m_EditorClassIdentifier: 
-  m_GroupName: Localization-Assets-Shared
+  m_GroupName: Localization-String-Tables-Vietnamese (vi)
   m_Data:
     m_SerializedData: []
-  m_GUID: 4fdd83660c6111e409578d727e901aa5
+  m_GUID: 25bf65a89ebc65140a2d05c0fecf67ab
   m_SerializeEntries:
-  - m_GUID: a2849ff42d309ab4c87a1c4621cfc2f3
-    m_Address: Assets/Localization/My Assets Shared Data.asset
+  - m_GUID: 50fe453e81e99764ab01d62b0dd0fc69
+    m_Address: StringTableCollection_vi
     m_ReadOnly: 1
-    m_SerializedLabels: []
-  - m_GUID: 4ce753f5f458fe644a85bcd9f3aad0b4
-    m_Address: Assets/Localization/StringTableCollection Shared Data.asset
-    m_ReadOnly: 1
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 3fa1ebb9b46de2e4ca6beeeee940544c, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 07210c94de1c1f940975bea516ade239, type: 2}
-    - {fileID: 11400000, guid: 04b4fd07c67add24cbe6a27b8c147ba1, type: 2}
+    - {fileID: 11400000, guid: 538782d3dc9e44d438cf047d2c47f334, type: 2}
+    - {fileID: 11400000, guid: 032b52fcd3a036640ace2ae03880d334, type: 2}
