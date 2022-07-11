@@ -14,11 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_TableCollectionName: Localization_Table_String
   m_TableCollectionNameGuidString: a2849ff42d309ab4c87a1c4621cfc2f3
-  m_Entries:
-  - m_Id: 16434659807232
-    m_Key: SampleScene/Canvas/TXT_Localization
-    m_Metadata:
-      m_Items: []
+  m_Entries: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
