@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class Script : MonoBehaviour
 {
-    public string username = "Thang";
+    [SerializeField] string playerName = "Thang";
 }

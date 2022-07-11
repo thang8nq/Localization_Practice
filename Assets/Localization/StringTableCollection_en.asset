@@ -24,14 +24,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
       - id: 0
-  - m_Id: 32013919670272
-    m_Localized: '{script-component.username} has an apple'
-    m_Metadata:
-      m_Items:
-      - id: 0
   references:
     version: 1
     00000000:
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
-        m_Entries: 00508fc90100000000504fd21d1d0000
+        m_Entries: 00508fc901000000

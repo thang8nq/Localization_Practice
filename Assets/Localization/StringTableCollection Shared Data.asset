@@ -19,10 +19,6 @@ MonoBehaviour:
     m_Key: Text Localize 01
     m_Metadata:
       m_Items: []
-  - m_Id: 32013919670272
-    m_Key: Text Localize 02
-    m_Metadata:
-      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
